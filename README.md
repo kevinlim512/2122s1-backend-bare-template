@@ -485,7 +485,7 @@
     > Which API is this for? enqueue? or dequeue?
 
 39. Following the above example, create another middleware for the other API. (Hint: What's the Request Method? Which manager's method do we call? How about the response status?)
-40. Back in `routes.js` add the following lines:
+40. Back in `router.js` add the following lines:
 
     ```js
     // after: const { app } = require('./app');
